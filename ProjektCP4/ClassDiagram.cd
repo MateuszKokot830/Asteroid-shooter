@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Astroids" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAABEAAAAAAgAAAAAAAAAUAAA=</HashCode>
+      <FileName>Astroids.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAAAAAAAAAAAAAABAAAQAEAAAAAAAUAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAAAAAAAACEAAAAAABAAiAAAAIQAQABAQWAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverState" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAAAAAAAAIAggAACBEAAAQAAIAAIIDAAUIAA=</HashCode>
+      <FileName>GameOverState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameState" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQoIAQAQoMEAAYAAkCAIAAEREAgAQBABAAIIiIIUIgA=</HashCode>
+      <FileName>GameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="How2State" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgIIAQBogkAAAAAAICABAACBEBQAQAABABIICAKUIIE=</HashCode>
+      <FileName>How2State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuState" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIJAAAAAAAAAAAAIggAAACBEAAAQAAIAAIICAAUIAA=</HashCode>
+      <FileName>MenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuStateButtons" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAASBEAAAAAAAAAAAAAAAAAAAAAAAIIAAACAAUAAI=</HashCode>
+      <FileName>MenuStateButtons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Objects" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAACAAAAACAAAAgwEgAAAAAAAUBAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obstacles" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAUBAA=</HashCode>
+      <FileName>Obstacles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAiQAgAAAAQAKAACwAAAACABAYAwAUAABIAQAcABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Potions" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAACAAAAAAAAAAAgAAAAAQAAAUAAA=</HashCode>
+      <FileName>Potions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAoAABAAAAAAAQBAEAAAAAAAAAAAQAAIIAAIBBAUIAA=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Buttons_states" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuStateButtons.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
